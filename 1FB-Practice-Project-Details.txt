@@ -1,0 +1,42 @@
+TreeApp
+--------------------------------------
+1)Spring Web MVC Project which includes following functionalties:-
+	1)Create an Employee and list employees in Tree List in the same.
+	2)Custom Tag Creation.
+	3)Usage of JSTL.
+	
+2)Technologies Used:-
+	1)Spring IOC
+	2)Spring MVC
+	3)Spring ORM
+	4)Hibernate
+	5)JSTL
+	6)JSTree Jquery Plugin
+	7)Ajax
+	9)JQuery
+	10)Maven
+	11)JSP
+	
+hibernateManytoMany
+-----------------------------------------
+1)Java Application to demostrate the usage of Hibernate Many to Many Relation Mapping.
+
+2)Technologies Used:-
+	1)Hibernate
+	2)Maven
+	
+hibernateMapping
+-----------------------------------------
+1)Java Application to demostrate the usage of Hibernate One to Many Relation Mapping.
+
+2)Technologies Used:-
+	1)Hibernate
+	2)Maven
+
+hibernateOnetoOne
+-----------------------------------------
+1)Java Application to demostrate the usage of Hibernate One to One Relation Mapping.
+
+2)Technologies Used:-
+	1)Hibernate
+	2)Maven
